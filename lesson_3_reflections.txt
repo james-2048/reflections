@@ -1,1 +1,9 @@
 I would want to push and pull changes manually rather than automatic, because i might still be doing work and the automatic push or pull occurs before i am finish writing code that is functional or even complete.
+
+Forking makes a copy of a repository belonging to some one else. Cloning makes a copy on your computer and branches are commits that were once the same but individual changes were made to them which would like to be kept so they are kept separate.
+
+The benefit of having a copy of the last know state of the remote stored locally is that you would be able to work offline and changes tracked and all the history be updated when connected to the internet again.
+
+Collaborating without GitHub would be using Google Drive, manually backing up each major change. GitHub looks like it would be easier once everything is in place and up and running.
+
+I would make changes in a separate branch rather than directly in master when I have just added a feature that I am unsure about, so I would like to keep this new change but also continue on another branch without the feature. I would continue to develop the added feature to iron out all the problems.
