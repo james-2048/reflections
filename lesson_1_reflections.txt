@@ -1,0 +1,12 @@
+Compare two files 	diff -u first file second file
+ it is a lot faster than searching manually
+
+Git makes it easy to track changes and the times those changes were made would help make me a more efficient programmer by the ease in detecting errors.
+
+Git allows saving multiple files in one commit because it was designed for code with the expectation that code will not just be one unit file, but a system of files.
+
+Can use the git log and git diff commands to get a view of any changes that were made that i am unsure of.
+
+Using version control would make me more confident making changes that could break code because I will always be able to go back to a state before the break.
+
+I would like to use Git to control versions of the Arduino code I tweak frequently when i get a new idea.

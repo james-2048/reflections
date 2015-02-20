@@ -1,0 +1,1 @@
+I would want to push and pull changes manually rather than automatic, because i might still be doing work and the automatic push or pull occurs before i am finish writing code that is functional or even complete.
